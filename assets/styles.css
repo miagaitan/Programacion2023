@@ -7,7 +7,8 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family:'Times New Roman', Times, serif;
-    background-color: rgb(253, 144, 180);
+    background-image: url(/assets/fondo.jpg);
+    background-repeat: no-repeat;
     height: 100%;
 
 }
