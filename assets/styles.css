@@ -8,8 +8,12 @@ body {
     box-sizing: border-box;
     font-family:'Times New Roman', Times, serif;
     background-image: url(/assets/fondo.jpg);
-    background-repeat: no-repeat;
     height: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed
+   
 
 }
     
